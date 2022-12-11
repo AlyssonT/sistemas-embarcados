@@ -1,5 +1,4 @@
 #include <Adafruit_NeoPixel.h>
-#include <iostream>
 
 #define LEFT D5
 #define RIGHT D6
