@@ -1,3 +1,7 @@
+# Como escolher entre os jogos
+
+* Assim que ligado, será mostrado uma "foto" do jogo que esta selecionado. Você pode navegar entre os jogos usando as teclas "a" e "d", por fim, ao pressionar a tecla "s" o jogo selecionado será iniciado. Caso queia voltar à seleção de jogos novamente é só apertar a tecla "s" enquanto joga (simulador).
+
 # Comandos para jogos no simulador
 
 ## Flappy Bird:
