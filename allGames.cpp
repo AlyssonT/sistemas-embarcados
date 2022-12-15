@@ -615,7 +615,7 @@ void loopEscolha(){
     }
 
     strip.show();
-    delay(200);
+    delay(25);
 }
 
 
