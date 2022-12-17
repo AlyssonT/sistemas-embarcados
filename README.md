@@ -6,7 +6,7 @@
 
 [Link para simulador](https://github.com/cacauvicosa/inf351_2019/tree/master/trabalhos/t3/Arthur/simulador)
 
-* Também há os arquivos .ino já adaptados para a mesa de leds, mas com alguns problemas nos botões que as vezes não são lidos corretamente.
+* Também há os arquivos .ino já adaptados para a mesa de leds, mas com alguns problemas nos botões que as vezes não são lidos corretamente. (No simulador funciona bem)
 
 ## Comandos para jogos no simulador
 
